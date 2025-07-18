@@ -4,7 +4,7 @@ title: Home
 
 # UrbanAI: Harnessing Artificial Intelligence for Smart Cities
 
-{% include figure.html img="urbanai.png" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="urbanai.png" alt="intro image here" caption="" width="75%" %}
 
 As the world population becomes increasingly urban, incredible innovation is required to sustain
 such dense populations in a safe and healthy manner. Urban areas are responsible for over 70% of
