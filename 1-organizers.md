@@ -1,5 +1,5 @@
 ---
-title: Key Dates
+title: Organizers
 nav: true
 ---
 
