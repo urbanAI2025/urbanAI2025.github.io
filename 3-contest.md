@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Contest
 nav: true
 ---
 
