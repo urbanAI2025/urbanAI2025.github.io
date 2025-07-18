@@ -1,5 +1,5 @@
 ---
-title: Prep
+title: Call For Papers
 nav: true
 ---
 
