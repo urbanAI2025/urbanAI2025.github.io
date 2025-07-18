@@ -29,9 +29,9 @@ We are looking for papers on the following topics:
 - Autonomous vehicle integration  
 
 # Key Dates
-Submission Deadline: September 1 AOE
-Decision Deadline: September 22 AOE
-Workshop Date: December 7
+- Submission Deadline: September 1 AOE
+- Decision Deadline: September 22 AOE
+- Workshop Date: December 7
 
 # Submission Platform
 Coming soon
