@@ -12,4 +12,5 @@ See the contest rules [here](https://docs.google.com/document/d/1ToQj7Nlj3Ht0M9q
 
 Deadline: September 1
 
-Submission Platform: Coming Soon
+Submission Platform: [Open Review Platform](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/UrbanAI&referrer=%5BHomepage%5D(%2F)#tab-recent-activity)
+
