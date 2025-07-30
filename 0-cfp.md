@@ -35,7 +35,7 @@ We are looking for papers on the following topics:
 - Workshop Date: December 7
   
 # Submission Platform
-Coming soon
+[Open Review Platform](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/UrbanAI&referrer=%5BHomepage%5D(%2F)#tab-recent-activity)
 
 # Paper Requirments
 Papers must be at most four pages (excl. references). For the camera-ready version, we will allow an additional fifth page. Unlimited Appendices are permitted, but may not be considered in the review. Papers should be submitted using the Neurips 2025 template.
