@@ -30,7 +30,7 @@ We are looking for papers on the following topics:
 
 # Key Dates
 - Submission Deadline: September 5 AOE
-- Decision Deadline: September 22 AOE
+- Decision Deadline: September 28 AOE
 - Camera Ready Deadline: November 23 AOE
 - Workshop Date: December 7
   
