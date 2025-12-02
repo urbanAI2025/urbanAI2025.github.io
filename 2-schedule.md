@@ -3,6 +3,26 @@ title: Schedule
 nav: true
 ---
 
-# Schedule
+| Time         | Title                                                                                                                                                                         | Speaker            | Affiliation                            |
+|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------|
+| 8:45–9:00    | Opening Remarks                                                                                                                                                                | Philippe Wyder      | Distyl.ai                               |
+| 9:00–9:15    | —                                                                                                                                                                              | Francis Northwood   | Basis.ai                                |
+| 9:15–9:30    | **A General Model for Building Thermal Dynamics: From Initial Deployment to Long-Term Operation**                                                                              | Fabian Raisch       | Technical University of Munich          |
+| 9:30–9:45    | **The Future of Cities**                                                                                                                                                       | TBD     | Environmental Systems Research Institute |
+| 9:45–10:00   | **Data Assimilation for HVAC Simulations in Koopman-Invariant Subspace using Kalman Filters**                                                                                  | Shoji Yutaka        | Kajima                                   |
+| 10:00–10:15  | Smart Buildings Contest Winner                                                                                                                                                  | Rocco Giudice       | Politecnico di Torino                    |
+| 10:15–10:30  | Smart Buildings Contest Runner-Up                                                                                                                                               | Shundong Li         | Worcester Polytechnic Institute          |
+| 10:30–11:00  | **Coffee Break**                                                                                                                                                                | —                   | —                                       |
+| 11:00–11:30  | **MobilityAI: Geospatial AI and Digital Twins to Improve Congestion, Safety, and Emissions**                                                                                   | Neha Arora          | Google                                   |
+| 11:30–12:00  | **Towards Smart Buildings at Scale via Foundation Models**                                                                                                                     | Judah Goldfeder     | Google                                   |
+| 12:00–1:00   | **Lunch Break**                                                                                                                                                                 | —                   | —                                       |
+| 1:00–1:20    | **Physics-Guided Dual Neural ODEs with Bidirectional Information Exchange for Air Quality Prediction**                                                                         | Jiaxu Feng          | Fudan University                         |
+| 1:20–1:40    | **Highly Controllable Satellite Image Synthesis Using OpenStreetMap Data**                                                                                                     | Amir Ziashahabi     | University of Southern California        |
+| 1:40–2:00    | **DStruct2Design: Data Structure Driven Generative Floor Plan Design via RLVR**                                                                                                | Luis Lara           | Mila                                     |
+| 2:00–3:00    | **Poster Session**                                                                                                                                                              | —                   | —                                       |
+| 3:00–3:30    | **Preparing Systems for Complex Environments**                                                                                                                                  | Michael Dennis      | DeepMind                                 |
+| 3:30–4:00    | **Scalable Multi-Camera Tracking with Nvidia Metropolis and AI City Challenge**                                                                                                 | Zheng Tang          | Nvidia                                   |
+| 4:00–4:20    | **ShadeBench: A Benchmark Dataset and Method for Shade Simulation in Sustainable Society**                                                                                      | Longchao Da         | Arizona State University                 |
+| 4:20–4:40    | **The Coalition That Freed Building Intelligence: A Linux Foundation–Aligned, Open-Source Architecture for Semantic Interoperability Across Humans, Machines, and AI**        | Kimon Onuma         | ONUMA, Inc.                              |
+| 4:40–5:00    | Closing Remarks                                                                                                                                                                 | Philippe Wyder      | Distyl.ai                                |
 
-Coming soon. Stay Tuned!
