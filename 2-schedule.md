@@ -2,7 +2,6 @@
 title: Schedule
 nav: true
 ---
-
 <table border="1" cellspacing="0" cellpadding="4">
   <thead>
     <tr>
@@ -21,9 +20,9 @@ nav: true
     </tr>
     <tr>
       <td>9:00–9:15</td>
-      <td></td>
-      <td>Francis Northwood</td>
-      <td>Basis.ai</td>
+      <td>Casual Probabilistic Programming to Understand Cities at Scale</td>
+      <td>Zenna Tavares</td>
+      <td>Basis Research Institute</td>
     </tr>
     <tr>
       <td>9:15–9:30</td>
@@ -33,30 +32,30 @@ nav: true
     </tr>
     <tr>
       <td>9:30–9:45</td>
-      <td>The Future of Cities</td>
-      <td>TBD</td>
-      <td>Environmental Systems Research Institute</td>
-    </tr>
-    <tr>
-      <td>9:45–10:00</td>
-      <td>Data Assimilation for HVAC Simulations in Koopman-Invariant Subspace using Kalman Filters</td>
-      <td>Shoji Yutaka</td>
-      <td>Kajima</td>
-    </tr>
-    <tr>
-      <td>10:00–10:15</td>
       <td>Smart Buildings Contest Winner</td>
       <td>Rocco Giudice</td>
       <td>Politecnico di Torino</td>
     </tr>
     <tr>
-      <td>10:15–10:30</td>
+      <td>9:45–10:00</td>
       <td>Smart Buildings Contest Runner Up</td>
       <td>Shundong Li</td>
       <td>Worcester Polytechnic Institute</td>
     </tr>
     <tr>
-      <td>10:30–11:00</td>
+      <td>10:00–10:30</td>
+      <td>Empowering GIS with AI: Creating Smarter Cities</td>
+      <td>Jack Dangermond</td>
+      <td>Environmental Systems Research Institute</td>
+    </tr>
+    <tr>
+      <td>10:30–10:45</td>
+      <td>Data Assimilation for HVAC Simulations in Koopman-Invariant Subspace using Kalman Filters</td>
+      <td>Shoji Yutaka</td>
+      <td>Kajima</td>
+    </tr>
+    <tr>
+      <td>10:45–11:00</td>
       <td>coffee break</td>
       <td></td>
       <td></td>
@@ -93,9 +92,9 @@ nav: true
     </tr>
     <tr>
       <td>1:40–2:00</td>
-      <td>DStruct2Design: Data Structure Driven Generative Floor Plan Design via RLVR</td>
-      <td>Luis Lara</td>
-      <td>Mila</td>
+      <td>ShadeBench: A Benchmark Dataset and Method for Shade Simulation in Sustainable Society</td>
+      <td>Longchao Da</td>
+      <td>Arizona State University</td>
     </tr>
     <tr>
       <td>2:00–3:00</td>
@@ -111,15 +110,15 @@ nav: true
     </tr>
     <tr>
       <td>3:30–4:00</td>
-      <td>Scalable Multi-Camera Tracking with Nvidia Metropolis and AI City Challenge</td>
+      <td>Scalable Mulri-Camera Tracking with Nvidia Metropolis and AI City Challenge</td>
       <td>Zheng Tang</td>
       <td>Nvidia</td>
     </tr>
     <tr>
       <td>4:00–4:20</td>
-      <td>ShadeBench: A Benchmark Dataset and Method for Shade Simulation in Sustainable Society</td>
-      <td>Longchao Da</td>
-      <td>Arizona State University</td>
+      <td>DStruct2Design: Data Structure Driven Generative Floor Plan Design via RLVR</td>
+      <td>Luis Lara</td>
+      <td>Mila</td>
     </tr>
     <tr>
       <td>4:20–4:40</td>
@@ -135,4 +134,5 @@ nav: true
     </tr>
   </tbody>
 </table>
+
 
